@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\NeuronNetwork\BackPropagation\bin\Debug\netcoreapp2.1\BackPropagation.deps.json
+C:\Users\Admin\source\repos\NeuronNetwork\BackPropagation\bin\Debug\netcoreapp2.1\BackPropagation.runtimeconfig.json
+C:\Users\Admin\source\repos\NeuronNetwork\BackPropagation\bin\Debug\netcoreapp2.1\BackPropagation.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\NeuronNetwork\BackPropagation\bin\Debug\netcoreapp2.1\BackPropagation.dll
+C:\Users\Admin\source\repos\NeuronNetwork\BackPropagation\bin\Debug\netcoreapp2.1\BackPropagation.pdb
+C:\Users\Admin\source\repos\NeuronNetwork\BackPropagation\obj\Debug\netcoreapp2.1\BackPropagation.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\NeuronNetwork\BackPropagation\obj\Debug\netcoreapp2.1\BackPropagation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NeuronNetwork\BackPropagation\obj\Debug\netcoreapp2.1\BackPropagation.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\NeuronNetwork\BackPropagation\obj\Debug\netcoreapp2.1\BackPropagation.AssemblyInfo.cs
+C:\Users\Admin\source\repos\NeuronNetwork\BackPropagation\obj\Debug\netcoreapp2.1\BackPropagation.dll
+C:\Users\Admin\source\repos\NeuronNetwork\BackPropagation\obj\Debug\netcoreapp2.1\BackPropagation.pdb
