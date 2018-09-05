@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\NeuronNetwork\NeuronNetwork\bin\Debug\netcoreapp2.1\NeuronNetwork.deps.json
+C:\Users\Admin\source\repos\NeuronNetwork\NeuronNetwork\bin\Debug\netcoreapp2.1\NeuronNetwork.runtimeconfig.json
+C:\Users\Admin\source\repos\NeuronNetwork\NeuronNetwork\bin\Debug\netcoreapp2.1\NeuronNetwork.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\NeuronNetwork\NeuronNetwork\bin\Debug\netcoreapp2.1\NeuronNetwork.dll
+C:\Users\Admin\source\repos\NeuronNetwork\NeuronNetwork\bin\Debug\netcoreapp2.1\NeuronNetwork.pdb
+C:\Users\Admin\source\repos\NeuronNetwork\NeuronNetwork\obj\Debug\netcoreapp2.1\NeuronNetwork.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\NeuronNetwork\NeuronNetwork\obj\Debug\netcoreapp2.1\NeuronNetwork.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NeuronNetwork\NeuronNetwork\obj\Debug\netcoreapp2.1\NeuronNetwork.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\NeuronNetwork\NeuronNetwork\obj\Debug\netcoreapp2.1\NeuronNetwork.AssemblyInfo.cs
+C:\Users\Admin\source\repos\NeuronNetwork\NeuronNetwork\obj\Debug\netcoreapp2.1\NeuronNetwork.dll
+C:\Users\Admin\source\repos\NeuronNetwork\NeuronNetwork\obj\Debug\netcoreapp2.1\NeuronNetwork.pdb
