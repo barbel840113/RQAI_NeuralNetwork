@@ -1,0 +1,11 @@
+B:\Projects\RQAI_NeuralNetwork\ThreadTutorial\bin\Debug\netcoreapp2.1\ThreadTutorial.deps.json
+B:\Projects\RQAI_NeuralNetwork\ThreadTutorial\bin\Debug\netcoreapp2.1\ThreadTutorial.runtimeconfig.json
+B:\Projects\RQAI_NeuralNetwork\ThreadTutorial\bin\Debug\netcoreapp2.1\ThreadTutorial.runtimeconfig.dev.json
+B:\Projects\RQAI_NeuralNetwork\ThreadTutorial\bin\Debug\netcoreapp2.1\ThreadTutorial.dll
+B:\Projects\RQAI_NeuralNetwork\ThreadTutorial\bin\Debug\netcoreapp2.1\ThreadTutorial.pdb
+B:\Projects\RQAI_NeuralNetwork\ThreadTutorial\obj\Debug\netcoreapp2.1\ThreadTutorial.csprojAssemblyReference.cache
+B:\Projects\RQAI_NeuralNetwork\ThreadTutorial\obj\Debug\netcoreapp2.1\ThreadTutorial.csproj.CoreCompileInputs.cache
+B:\Projects\RQAI_NeuralNetwork\ThreadTutorial\obj\Debug\netcoreapp2.1\ThreadTutorial.AssemblyInfoInputs.cache
+B:\Projects\RQAI_NeuralNetwork\ThreadTutorial\obj\Debug\netcoreapp2.1\ThreadTutorial.AssemblyInfo.cs
+B:\Projects\RQAI_NeuralNetwork\ThreadTutorial\obj\Debug\netcoreapp2.1\ThreadTutorial.dll
+B:\Projects\RQAI_NeuralNetwork\ThreadTutorial\obj\Debug\netcoreapp2.1\ThreadTutorial.pdb
