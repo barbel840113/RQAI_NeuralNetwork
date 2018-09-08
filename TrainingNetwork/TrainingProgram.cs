@@ -150,7 +150,8 @@ namespace TrainingNetwork
             allData[125] = new double[] { 7.2, 3.2, 6.0, 1.8, 1, 0, 0 }; 
             allData[126] = new double[] { 6.2, 2.8, 4.8, 1.8, 1, 0, 0 }; 
             allData[127] = new double[] { 6.1, 3.0, 4.9, 1.8, 1, 0, 0 }; 
-            allData[128] = new double[] { 6.4, 2.8, 5.6, 2.1, 1, 0, 0 }; 
+            allData[128] = new double[] { 6.4, 2.8, 5.6, 2.1, 1, 0, 0 };
+            allData[129] = new double[] { 7.2, 3.0, 5.8, 1.6, 1, 0, 0 };
             allData[130] = new double[] { 7.4, 2.8, 6.1, 1.9, 1, 0, 0 }; 
             allData[131] = new double[] { 7.9, 3.8, 6.4, 2.0, 1, 0, 0 }; 
             allData[132] = new double[] { 6.4, 2.8, 5.6, 2.2, 1, 0, 0 }; 
@@ -215,7 +216,6 @@ namespace TrainingNetwork
             double[] weights = nn.GetWeights();
             Console.WriteLine("Final neural network weights and bias values:");
             ShowVector(weights, 10, 3, true);
-
 
             double trainAcc = nn.Accuracy(trainData);
             Console.WriteLine("\nAccuracy on training data = " + trainAcc.ToString("F4"));
@@ -319,9 +319,9 @@ namespace TrainingNetwork
         {
             for (int i = 0; i < vector.Length; ++i)
             {
-                if (i % 100 == 0)
+                if (i % valsPerRow == 0)
                 {
-                    Console.WriteLine(vector[i].ToString("F" + decimals).PadLeft(decimals + 4) + " ");
+                    Console.Write(vector[i].ToString("F" + decimals).PadLeft(decimals + 4) + " ");
                 }
             }
 
@@ -336,17 +336,17 @@ namespace TrainingNetwork
         {
             for (int i = 0; i < numRows; ++i)
             {
-                Console.WriteLine(i.ToString().PadLeft(3) + " : ");
+                Console.Write(i.ToString().PadLeft(3) + ": ");
 
                 for (int j = 0; j < matrix[i].Length; ++j)
                 {
                     if (matrix[i][j] >= 0.0)
                     {
-                        Console.WriteLine(" ");
+                        Console.Write(" ");
                     }
                     else
                     {
-                        Console.WriteLine("-");
+                        Console.Write("-");
                     }
                     Console.Write(Math.Abs(matrix[i][j]).ToString("F" + decimals) + " ");
                 }

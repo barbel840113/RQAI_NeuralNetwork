@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\NeuronNetwork\\TrainingNetwork\\TrainingNetwork.csproj",
+      "projectUniqueName": "B:\\Projects\\RQAI_NeuralNetwork\\TrainingNetwork\\TrainingNetwork.csproj",
       "projectName": "TrainingNetwork",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\NeuronNetwork\\TrainingNetwork\\TrainingNetwork.csproj",
+      "projectPath": "B:\\Projects\\RQAI_NeuralNetwork\\TrainingNetwork\\TrainingNetwork.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\NeuronNetwork\\TrainingNetwork\\obj\\",
+      "outputPath": "B:\\Projects\\RQAI_NeuralNetwork\\TrainingNetwork\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

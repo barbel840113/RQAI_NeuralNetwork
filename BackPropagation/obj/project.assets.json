@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\NeuronNetwork\\BackPropagation\\BackPropagation.csproj",
+      "projectUniqueName": "B:\\Projects\\RQAI_NeuralNetwork\\BackPropagation\\BackPropagation.csproj",
       "projectName": "BackPropagation",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\NeuronNetwork\\BackPropagation\\BackPropagation.csproj",
+      "projectPath": "B:\\Projects\\RQAI_NeuralNetwork\\BackPropagation\\BackPropagation.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\NeuronNetwork\\BackPropagation\\obj\\",
+      "outputPath": "B:\\Projects\\RQAI_NeuralNetwork\\BackPropagation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

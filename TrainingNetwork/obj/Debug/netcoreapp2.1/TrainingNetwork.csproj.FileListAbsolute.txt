@@ -1,0 +1,11 @@
+B:\Projects\RQAI_NeuralNetwork\TrainingNetwork\bin\Debug\netcoreapp2.1\TrainingNetwork.deps.json
+B:\Projects\RQAI_NeuralNetwork\TrainingNetwork\bin\Debug\netcoreapp2.1\TrainingNetwork.runtimeconfig.json
+B:\Projects\RQAI_NeuralNetwork\TrainingNetwork\bin\Debug\netcoreapp2.1\TrainingNetwork.runtimeconfig.dev.json
+B:\Projects\RQAI_NeuralNetwork\TrainingNetwork\bin\Debug\netcoreapp2.1\TrainingNetwork.dll
+B:\Projects\RQAI_NeuralNetwork\TrainingNetwork\bin\Debug\netcoreapp2.1\TrainingNetwork.pdb
+B:\Projects\RQAI_NeuralNetwork\TrainingNetwork\obj\Debug\netcoreapp2.1\TrainingNetwork.csprojAssemblyReference.cache
+B:\Projects\RQAI_NeuralNetwork\TrainingNetwork\obj\Debug\netcoreapp2.1\TrainingNetwork.csproj.CoreCompileInputs.cache
+B:\Projects\RQAI_NeuralNetwork\TrainingNetwork\obj\Debug\netcoreapp2.1\TrainingNetwork.AssemblyInfoInputs.cache
+B:\Projects\RQAI_NeuralNetwork\TrainingNetwork\obj\Debug\netcoreapp2.1\TrainingNetwork.AssemblyInfo.cs
+B:\Projects\RQAI_NeuralNetwork\TrainingNetwork\obj\Debug\netcoreapp2.1\TrainingNetwork.dll
+B:\Projects\RQAI_NeuralNetwork\TrainingNetwork\obj\Debug\netcoreapp2.1\TrainingNetwork.pdb
